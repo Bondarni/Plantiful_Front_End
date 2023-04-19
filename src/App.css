@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Heebo:wght@300;400&family=Tillana:wght@400;500;600;700;800&display=swap');
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  place-content: center;
+  font-family: 'Heebo';
+}
+
+h1 {
+  font-family: 'Delicious Handrawn';
+}
+

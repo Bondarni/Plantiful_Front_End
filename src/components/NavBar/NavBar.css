@@ -1,0 +1,15 @@
+.navsection {
+  background-color: rgb(2, 159, 107);
+  padding: 15px;
+}
+.navsection a {
+  margin: 0 10px;
+}
+
+.active {
+  display: none
+}
+
+h3 {
+  font-family: 'Delicious Handrawn';
+}
